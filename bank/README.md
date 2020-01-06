@@ -1,0 +1,2 @@
+一个sojsonv5加密安装jsdom库模拟浏览器环境  
+sojson好像是混淆不是加密
